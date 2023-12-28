@@ -1,0 +1,1 @@
+One of the simplest ways to resize an image in the HTML is using the height and width attributes on the img tag. These values specify the height and width of the image element. The values are set in px i.e. CSS pixels.
